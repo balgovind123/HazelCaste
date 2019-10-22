@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Built-By: balgovindsingh
+Class-Path: hazelcast-3.7.jar javax.servlet-api-3.1.0.jar
+Build-Jdk: 1.8.0_144
+Created-By: Maven Integration for Eclipse
+Main-Class: com.HazelCastShutDown.HazelCastShutDown.App
+
